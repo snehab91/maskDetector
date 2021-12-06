@@ -1,0 +1,14 @@
+backbone: resnet18
+backbone_kwargs: null
+head: null
+learning_rate: 0.001
+loss_fn: null
+lr_scheduler: null
+metrics: null
+multi_label: false
+num_classes: 2
+optimizer: Adam
+pretrained: true
+serializer: null
+training_strategy: default
+training_strategy_kwargs: null
